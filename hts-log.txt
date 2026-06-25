@@ -1,0 +1,54 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 25 Jun 2026 18:05:41 at https://makermur.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://makermur.com/ -O1 "C:\My Web Sites\MakerMurBackup" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:06:18	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://shop.app/checkouts/internal/preloads.js?locale=es-ES&shop_id=105789653331
+18:08:19	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://shop.app/checkouts/internal/preloads.js?locale=en-ES&shop_id=105789653331
+18:08:28	Error: 	"Not Found" (404) at link https://makermur.com/GET (from https://makermur.com/)
+18:08:29	Error: 	"Not Found" (404) at link https://makermur.com/POST (from https://makermur.com/)
+18:08:29	Error: 	"Error when decompressing" (-1) at link https://makermur.com/cdn (from https://makermur.com/)
+18:11:03	Error: 	"Not Found" (404) at link https://makermur.com/window.location.href (from https://makermur.com/)
+18:12:36	Error: 	"Not Found" (404) at link https://makermur.com/products/10514989121875 (from https://makermur.com/)
+18:12:36	Error: 	"Not Found" (404) at link https://makermur.com/products/10515017957715 (from https://makermur.com/)
+18:12:36	Error: 	"Not Found" (404) at link https://makermur.com/products/10515013730643 (from https://makermur.com/)
+18:12:36	Error: 	"Not Found" (404) at link https://makermur.com/products/10515014615379 (from https://makermur.com/)
+18:12:42	Error: 	"Not Found" (404) at link https://makermur.com/policies/ (from https://makermur.com/)
+18:13:16	Error: 	"Not Found" (404) at link https://makermur.com/en/policies/ (from https://makermur.com/en)
+18:13:18	Error: 	"Not Found" (404) at link https://makermur.com/collections/GET (from https://makermur.com/collections/vida)
+18:13:18	Error: 	"Not Found" (404) at link https://makermur.com/collections/POST (from https://makermur.com/collections/vida)
+18:13:18	Error: 	"Not Found" (404) at link https://makermur.com/collections/window.location.href (from https://makermur.com/collections/vida)
+18:14:57	Error: 	"Not Found" (404) at link https://makermur.com/pages/GET (from https://makermur.com/pages/contacto)
+18:14:57	Error: 	"Not Found" (404) at link https://makermur.com/pages/POST (from https://makermur.com/pages/contacto)
+18:14:57	Error: 	"Not Found" (404) at link https://makermur.com/pages/window.location.href (from https://makermur.com/pages/contacto)
+18:15:00	Error: 	"Not Found" (404) at link https://makermur.com/products/GET (from https://makermur.com/products/maceta-vida-elementos-agua-viento-fuego-decoracion-impresa-en-3d?variant=53732377624915)
+18:15:00	Error: 	"Not Found" (404) at link https://makermur.com/products/POST (from https://makermur.com/products/maceta-vida-elementos-agua-viento-fuego-decoracion-impresa-en-3d?variant=53732377624915)
+18:15:00	Error: 	"Not Found" (404) at link https://makermur.com/products/window.location.href (from https://makermur.com/products/maceta-vida-elementos-agua-viento-fuego-decoracion-impresa-en-3d?variant=53732377624915)
+18:15:01	Error: 	"Not Found" (404) at link https://makermur.com/products/review_widget.js (from https://makermur.com/products/maceta-vida-elementos-agua-viento-fuego-decoracion-impresa-en-3d?variant=53732377624915)
+18:15:01	Error: 	"Not Found" (404) at link https://makermur.com/products/review-widget/main.js (from https://makermur.com/products/maceta-vida-elementos-agua-viento-fuego-decoracion-impresa-en-3d?variant=53732377624915)
+18:15:04	Error: 	"Not Found" (404) at link https://makermur.com/policies/GET (from https://makermur.com/policies/refund-policy)
+18:15:04	Error: 	"Not Found" (404) at link https://makermur.com/policies/POST (from https://makermur.com/policies/refund-policy)
+18:15:04	Error: 	"Not Found" (404) at link https://makermur.com/policies/window.location.href (from https://makermur.com/policies/refund-policy)
+18:15:04	Error: 	"Not Found" (404) at link https://makermur.com/en/GET (from https://makermur.com/en/)
+18:15:04	Error: 	"Not Found" (404) at link https://makermur.com/en/POST (from https://makermur.com/en/)
+18:15:04	Error: 	"Not Found" (404) at link https://makermur.com/en/window.location.href (from https://makermur.com/en/)
+18:15:04	Error: 	"Not Found" (404) at link https://makermur.com/en/collections/GET (from https://makermur.com/en/collections/vida)
+18:15:04	Error: 	"Not Found" (404) at link https://makermur.com/en/collections/POST (from https://makermur.com/en/collections/vida)
+18:15:04	Error: 	"Not Found" (404) at link https://makermur.com/en/collections/window.location.href (from https://makermur.com/en/collections/vida)
+18:15:16	Error: 	"Not Found" (404) at link https://makermur.com/en/pages/GET (from https://makermur.com/en/pages/contacto)
+18:15:16	Error: 	"Not Found" (404) at link https://makermur.com/en/pages/POST (from https://makermur.com/en/pages/contacto)
+18:15:16	Error: 	"Not Found" (404) at link https://makermur.com/en/pages/window.location.href (from https://makermur.com/en/pages/contacto)
+18:15:18	Error: 	"Not Found" (404) at link https://makermur.com/en/products/GET (from https://makermur.com/en/products/maceta-vida-elementos-agua-viento-fuego-decoracion-impresa-en-3d?variant=53732377624915)
+18:15:18	Error: 	"Not Found" (404) at link https://makermur.com/en/products/POST (from https://makermur.com/en/products/maceta-vida-elementos-agua-viento-fuego-decoracion-impresa-en-3d?variant=53732377624915)
+18:15:18	Error: 	"Not Found" (404) at link https://makermur.com/en/products/window.location.href (from https://makermur.com/en/products/maceta-vida-elementos-agua-viento-fuego-decoracion-impresa-en-3d?variant=53732377624915)
+18:15:18	Error: 	"Not Found" (404) at link https://makermur.com/en/products/review_widget.js (from https://makermur.com/en/products/maceta-vida-elementos-agua-viento-fuego-decoracion-impresa-en-3d?variant=53732377624915)
+18:15:18	Error: 	"Not Found" (404) at link https://makermur.com/en/products/review-widget/main.js (from https://makermur.com/en/products/maceta-vida-elementos-agua-viento-fuego-decoracion-impresa-en-3d?variant=53732377624915)
+18:15:18	Error: 	"Not Found" (404) at link https://makermur.com/en/policies/GET (from https://makermur.com/en/policies/refund-policy)
+18:15:18	Error: 	"Not Found" (404) at link https://makermur.com/en/policies/POST (from https://makermur.com/en/policies/refund-policy)
+18:15:18	Error: 	"Not Found" (404) at link https://makermur.com/en/policies/window.location.href (from https://makermur.com/en/policies/refund-policy)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 53 seconds : 575 links scanned, 533 files written (157449190 bytes overall) [131465034 bytes received at 221694 bytes/sec], 45682857 bytes transferred using HTTP compression in 235 files, ratio 21%, 31.2 requests per connection
+(41 errors, 2 warnings, 0 messages)

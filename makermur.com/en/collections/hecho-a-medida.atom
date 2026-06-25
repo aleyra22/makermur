@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://makermur.com/en/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://makermur.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://makermur.com/en/collections/hecho-a-medida.atom"/>
+  <title>MAKER-MUR</title>
+  <updated>2026-03-30T23:05:24+02:00</updated>
+  <author>
+    <name>MAKER-MUR</name>
+  </author>
+  <entry>
+    <id>https://makermur.com/en/products/10515032539475</id>
+    <published>2026-03-30T23:05:24+02:00</published>
+    <updated>2026-03-30T23:05:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/en/products/guardafango-patinete-ducati-pro-evo-1"/>
+    <title>🛴 Mudguard Scooter Ducati Pro Evo 1</title>
+    <s:type>Technical accessory</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/DSC_0054.jpg?v=1774904711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAKER-MUR<br>
+        <strong>Type: </strong>Technical accessory<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Ducati Pro Evo 1 Scooter Mudguard</h2><p>3D printed replacement mudguard individually manufactured for the Ducati Pro Evo 1 electric scooter. A practical and durable solution made to order.</p><ul>
+<li>Made specifically for the Ducati Pro Evo 1</li>
+<li>
+<strong>Material: PETG</strong> — resistant, durable and high quality</li>
+<li>Precision 3D printed</li>
+<li>Made to order part</li>
+</ul><p><em>Do you need any modifications or specific measurements? <a href="/en/pages/contact">Contact us</a> and we will custom-make it for you.</em></p><p>📸 Real product images. The final result may have slight variations from the photographs due to the 3D printing process.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ducati</s:tag>
+    <s:tag>guardafango</s:tag>
+    <s:tag>patinete</s:tag>
+    <s:tag>PETG</s:tag>
+    <s:tag>pro evo 1</s:tag>
+    <s:variant>
+      <id>https://makermur.com/en/products/10515032539475</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.00</s:price>
+      <s:sku/>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makermur.com/en/products/10515030442323</id>
+    <published>2026-03-30T23:01:36+02:00</published>
+    <updated>2026-03-30T23:01:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/en/products/adaptador-bambu-lab-ams1"/>
+    <title>🔧 Bambu Lab AMS1 Adapter</title>
+    <s:type>Technical accessory</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/DSC_0113.jpg?v=1774904484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAKER-MUR<br>
+        <strong>Type: </strong>Technical accessory<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Bambu Lab AMS1 Adapter</h2><p>3D printed adapter individually manufactured for the Bambu Lab AMS1 system. A practical and functional solution to optimize your 3D printer.</p><ul>
+<li>Specifically made for Bambu Lab AMS1</li>
+<li>
+<strong>Material: PETG</strong> — resistant, durable, and high quality</li>
+<li>Precision 3D printed</li>
+<li>Practical and functional solution</li>
+<li>Made to order</li>
+</ul><p><em>Do you need a specific size or configuration? <a href="/en/pages/contact">Contact us</a> and we'll custom-make it for you.</em></p><p>📸 Real product images. The final result may have slight variations from the photos due to the 3D printing process.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adaptador</s:tag>
+    <s:tag>AMS1</s:tag>
+    <s:tag>bambu lab</s:tag>
+    <s:tag>impresora 3D</s:tag>
+    <s:tag>personalizado</s:tag>
+    <s:variant>
+      <id>https://makermur.com/en/products/10515030442323</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku/>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://makermur.com/en/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://makermur.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://makermur.com/en/collections/navidad-2025.atom"/>
+  <title>MAKER-MUR</title>
+  <updated>2026-03-30T22:43:53+02:00</updated>
+  <author>
+    <name>MAKER-MUR</name>
+  </author>
+  <entry>
+    <id>https://makermur.com/en/products/10515022250323</id>
+    <published>2026-03-30T22:43:53+02:00</published>
+    <updated>2026-03-30T22:43:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/en/products/pesebre-con-luz"/>
+    <title>🕯️ Nativity Scene with Light</title>
+    <s:type>Christmas decoration</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/DSC_0104.jpg?v=1774903403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAKER-MUR<br>
+        <strong>Type: </strong>Christmas decoration<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>🕯️ Nativity Scene with Light — 3D Printed Christmas Decoration</h2><p>Bring magic to your Christmas with this 3D printed nativity scene, individually crafted at MAKER-MUR. A piece that combines tradition and technology to light up your holidays.</p><ul>
+<li>
+<strong>Material:</strong> High-quality PLA — lightweight, durable, and sustainable</li>
+<li>
+<strong>Multi-color LED lighting</strong> with remote control included</li>
+<li>
+<strong>Power supply included</strong> — ready to plug in and enjoy</li>
+<li>
+<strong>1.5m cable</strong> for greater placement convenience</li>
+<li>
+<strong>Voltage:</strong> DC 5V / <strong>Power:</strong> 3W — low consumption</li>
+<li>Made to order in Spain</li>
+</ul><p><em>The final result may show slight variations from the photographs due to the 3D printing process.</em></p><p>📦 Includes: 3D printed nativity scene + multi-color LED light kit + remote control + power supply.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3D</s:tag>
+    <s:tag>decoración</s:tag>
+    <s:tag>luz</s:tag>
+    <s:tag>navidad</s:tag>
+    <s:tag>pesebre</s:tag>
+    <s:variant>
+      <id>https://makermur.com/en/products/10515022250323</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku/>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makermur.com/en/products/10515021627731</id>
+    <published>2026-03-30T22:41:29+02:00</published>
+    <updated>2026-03-30T22:41:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/en/products/portal"/>
+    <title>🏠 Home</title>
+    <s:type>Christmas decoration</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/DSC_0130.jpg?v=1774903280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAKER-MUR<br>
+        <strong>Type: </strong>Christmas decoration<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>🏠 3D Printed Christmas Nativity Scene</h2><p>Add a magical touch to your Christmas decor with this 3D printed nativity scene, individually crafted at MAKER-MUR. Perfect for complementing your existing nativity set or as a standalone decorative piece.</p><ul>
+<li>
+<strong>Material:</strong> High-quality PLA — lightweight and durable</li>
+<li>
+<strong>Compatible with LED tea lights</strong> to create a warm and cozy atmosphere (not included)</li>
+<li>3D printed with detailed finish and great attention to detail</li>
+<li>Made to order in Spain</li>
+<li>Easy to place in any space in your home</li>
+</ul><p><em>LED tea lights are not included. The final result may show slight variations from the photographs due to the 3D printing process.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3D</s:tag>
+    <s:tag>belén</s:tag>
+    <s:tag>decoración</s:tag>
+    <s:tag>navidad</s:tag>
+    <s:tag>portal</s:tag>
+    <s:variant>
+      <id>https://makermur.com/en/products/10515021627731</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.90</s:price>
+      <s:sku/>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makermur.com/en/products/10515020611923</id>
+    <published>2026-03-30T22:40:41+02:00</published>
+    <updated>2026-03-30T22:40:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/en/products/belen"/>
+    <title>⭐ Bethlehem</title>
+    <s:type>Christmas decoration</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/DSC_0134.jpg?v=1774903173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAKER-MUR<br>
+        <strong>Type: </strong>Christmas decoration<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>⭐ 3D Printed Christmas Nativity Scene</h2><p>Decorate your home this Christmas with this 3D printed nativity scene, individually made at MAKER-MUR. A piece that brings the magic of the nativity to your table or mantelpiece.</p><ul>
+<li>
+<strong>Material:</strong> High-quality PLA — lightweight and resistant</li>
+<li>
+<strong>Compatible with LED tea lights</strong> for warm and cozy illumination (not included)</li>
+<li>3D printing with detailed finish and precision in each piece</li>
+<li>Made to order in Spain</li>
+<li>Lightweight and easy to place in any space</li>
+</ul><p><em>LED tea lights are not included. The final result may show slight variations from the photographs due to the 3D printing process.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3D</s:tag>
+    <s:tag>belén</s:tag>
+    <s:tag>decoración</s:tag>
+    <s:tag>navidad</s:tag>
+    <s:tag>regalo</s:tag>
+    <s:variant>
+      <id>https://makermur.com/en/products/10515020611923</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.90</s:price>
+      <s:sku/>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+</feed>

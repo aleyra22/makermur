@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://makermur.com/en/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://makermur.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://makermur.com/en/collections/llaveros.atom"/>
+  <title>MAKER-MUR</title>
+  <updated>2026-04-04T18:47:25+02:00</updated>
+  <author>
+    <name>MAKER-MUR</name>
+  </author>
+  <entry>
+    <id>https://makermur.com/en/products/10522408943955</id>
+    <published>2026-04-04T18:47:25+02:00</published>
+    <updated>2026-04-04T18:47:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/en/products/tarjeta-minecraft-bee"/>
+    <title>🐝 Minecraft Bee Card – 3D Printed</title>
+    <s:type>Decorative card</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/20260403_195832.jpg?v=1775320257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAKER-MUR<br>
+        <strong>Type: </strong>Decorative card<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Collectible Minecraft bee card, individually 3D printed in our workshop in Spain. Each piece is printed separately and checked before shipping. Clean finish with careful details.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jugueteria</s:tag>
+    <s:tag>llavero</s:tag>
+    <s:variant>
+      <id>https://makermur.com/en/products/10522408943955</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">2.49</s:price>
+      <s:sku/>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makermur.com/en/products/10515014615379</id>
+    <published>2026-03-30T22:30:10+02:00</published>
+    <updated>2026-03-30T22:30:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/en/products/llavero-corazon-bricks"/>
+    <title>🧱 Heart Bricks Keychain</title>
+    <s:type>Keychain</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/20260401_134052.jpg?v=1775044200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAKER-MUR<br>
+        <strong>Type: </strong>Keychain<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Heart Bricks Keychain</h2><p>A cool keychain in the shape of a building brick-style heart, the perfect combination of love and the brick world. Ideal for brick fans and the perfect gift for lovers.</p><ul>
+<li>3D printed with a brick-style finish in the shape of a heart</li>
+<li>Symbol of love with a geeky touch</li>
+<li>Lightweight and durable</li>
+<li>Perfect as a gift for lovers and brick fans</li>
+</ul><p>📸 Actual product images. The final result may have slight variations from the photographs due to the artisanal 3D printing process.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>corazón</s:tag>
+    <s:tag>enamorados</s:tag>
+    <s:tag>llavero</s:tag>
+    <s:tag>regalo</s:tag>
+    <s:variant>
+      <id>https://makermur.com/en/products/10515014615379</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">2.49</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makermur.com/en/products/10515013730643</id>
+    <published>2026-03-30T22:26:30+02:00</published>
+    <updated>2026-03-30T22:26:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/en/products/llavero-corazon"/>
+    <title>❤️ Heart Keychain</title>
+    <s:type>Keychain</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/DSC_0071.jpg?v=1774902172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAKER-MUR<br>
+        <strong>Type: </strong>Keychain<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keychain individually manufactured using 3D printing in our workshop in Spain. Each piece is printed separately, checked before shipping, and features a clean finish with careful details. This model is not mass-produced and cannot be found with this configuration and characteristics in conventional stores.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amor</s:tag>
+    <s:tag>corazón</s:tag>
+    <s:tag>enamorados</s:tag>
+    <s:tag>llavero</s:tag>
+    <s:tag>regalo</s:tag>
+    <s:variant>
+      <id>https://makermur.com/en/products/10515013730643</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">2.49</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makermur.com/en/products/10515009700179</id>
+    <published>2026-03-30T22:17:55+02:00</published>
+    <updated>2026-03-30T22:17:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/en/products/llavero-camara"/>
+    <title>📷 Camera Keychain</title>
+    <s:type>Keychain</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/DSC_0058-copia.jpg?v=1774901863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAKER-MUR<br>
+        <strong>Type: </strong>Keychain<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keychain individually manufactured using 3D printing in our workshop in Spain. Each piece is printed separately, checked before shipping and features a clean finish with carefully crafted details. This model is not mass-produced and cannot be found with this configuration and features in conventional stores.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorio</s:tag>
+    <s:tag>cámara</s:tag>
+    <s:tag>fotografía</s:tag>
+    <s:tag>llavero</s:tag>
+    <s:tag>regalo</s:tag>
+    <s:variant>
+      <id>https://makermur.com/en/products/10515009700179</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">2.49</s:price>
+      <s:sku/>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makermur.com/en/products/10515009143123</id>
+    <published>2026-03-30T22:15:03+02:00</published>
+    <updated>2026-03-30T22:15:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/en/products/llavero-trebol"/>
+    <title>🍀 Clover Keychain</title>
+    <s:type>Keychain</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/DSC_0169.jpg?v=1774901672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAKER-MUR<br>
+        <strong>Type: </strong>Keychain<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keychain individually manufactured using 3D printing in our workshop in Spain. Each piece is printed separately, checked before shipping and features a clean finish with careful details. This model is not mass-produced and cannot be found with this configuration and features in conventional stores.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorio</s:tag>
+    <s:tag>buena suerte</s:tag>
+    <s:tag>llavero</s:tag>
+    <s:tag>regalo</s:tag>
+    <s:tag>trébol</s:tag>
+    <s:variant>
+      <id>https://makermur.com/en/products/10515009143123</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">2.49</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makermur.com/en/products/10515008618835</id>
+    <published>2026-03-30T22:13:34+02:00</published>
+    <updated>2026-03-30T22:13:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/en/products/llavero-chile"/>
+    <title>🌶️ Chili Keychain</title>
+    <s:type>Keychain</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/DSC_0167.jpg?v=1774901592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAKER-MUR<br>
+        <strong>Type: </strong>Keychain<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keyring individually manufactured by 3D printing in our workshop in Spain. Each piece is printed separately, checked before shipping and features a clean finish with careful detailing. This model is not mass-produced and cannot be found with this configuration and features in conventional stores.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorio</s:tag>
+    <s:tag>chile</s:tag>
+    <s:tag>llavero</s:tag>
+    <s:tag>regalo</s:tag>
+    <s:variant>
+      <id>https://makermur.com/en/products/10515008618835</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">2.49</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

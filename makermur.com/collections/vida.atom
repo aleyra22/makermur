@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://makermur.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://makermur.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://makermur.com/collections/vida.atom"/>
+  <title>MAKER-MUR</title>
+  <updated>2026-05-20T21:01:38+02:00</updated>
+  <author>
+    <name>MAKER-MUR</name>
+  </author>
+  <entry>
+    <id>https://makermur.com/products/10586117603667</id>
+    <published>2026-05-20T21:01:38+02:00</published>
+    <updated>2026-05-20T21:01:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/products/maceta-vida-elementos-agua-viento-fuego-decoracion-impresa-en-3d"/>
+    <title>PROMO VIDA 27º · Murcia</title>
+    <s:type>Decoración del hogar</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/BCO.feae4e05-19e6-44fc-b09f-ed27f2ecc6a4.png?v=1779291624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>MAKER-MUR<br>
+        <strong>Tipo: </strong>Decoración del hogar<br>
+        <strong>Precio: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>🇪🇸</strong></p>
+<p><strong>🌱</strong></p>
+<p><strong>Maceta VIDA – Elementos (Agua · Viento · Fuego)</strong> <em>Decoración impresa en 3D · Fabricada en España 🇪🇸</em></p>
+<p>Colección VIDA: tres macetas inspiradas en los elementos naturales. Cada una impresa en 3D con precisión y acabados limpios. Fabricadas para acompañar la vida cotidiana con humor, luz y un toque de filosofía absurda.</p>
+<p><strong>Variantes disponibles:</strong> 💧 Agua — textura suave, tono beige claro 🌀 Viento — líneas diagonales, azul intenso 🔥 Fuego — patrón entrelazado, rojo vibrante</p>
+<p><strong>Colección VIDA</strong> 🌵 — Macetas impresas en 3D por MAKER-MUR, inspiradas en los elementos 💧 agua, 🔥 fuego y 🌀 viento</p>
+<ul>
+<li>🪴 1 maceta grande</li>
+<li>🪴 1 cuenco central</li>
+<li>🪴 2 macetas pequeñas para germinar</li>
+<li>🟦 1 bandeja base</li>
+<li>🎁 1 planta SORPRESA: <strong>cactus 🌵 o suculenta 🌱</strong>
+</li>
+</ul>
+<p>📸 Imágenes reales del producto. El resultado final puede presentar ligeras variaciones respecto a las fotografías debido al proceso de impresión 3D artesanal.</p>
+<p>📐 Medidas maceta central — Diámetro: 53 mm · Alto: 59 mm · Profundidad: 52 mm</p>
+<p>📐 Medidas bandeja base — Largo: 260 mm · Ancho: 90 mm · Alto: 10 mm</p>
+<p>📐 Medidas germinadores (x2) — Diámetro: 35 mm · Alto: 28 mm · Profundidad: 26 mm</p>
+<p><strong>⚠️ 📦 🌱 Incluye una planta real. Puede verse afectada por el transporte. <a href="/policies/refund-policy">Ver política de devolución</a></strong></p>
+<p><strong>🌱 Envíos con planta<br>España: Incluye planta real (opcional, indícalo en las notas del pedido).</strong></p>
+<p><strong>☀️ 27° Murcia 🇪🇸</strong> — Las tres macetas juntas, mismo precio, misma convicción. <em>Esto sí lo decimos nosotros. Con total convicción... (en nuestras deudas).</em></p>
+<ul>
+<li>🪴 3 macetas grandes a elección</li>
+<li>🪴 3 cuencos centrales</li>
+<li>🟦 1 bandeja base color blanco</li>
+</ul>
+<p>📐 Medidas macetas — Diámetro: 53 mm · Alto: 59 mm · Profundidad: 52 mm</p>
+<p>📐 Medidas bandeja base — Largo: 260 mm · Ancho: 90 mm · Alto: 10 mm</p>
+<p><strong>🌍 Internacional:</strong></p>
+<p><strong>⚠️</strong> 🚫 Por normativa fitosanitaria, los envíos fuera de España no incluyen plantas.</p>
+<p>📌 <a href="https://makermur.com/pages/normativa-fitosanitaria">Consultar política fitosanitaria de MAKER-MUR</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>agua</s:tag>
+    <s:tag>decoracion</s:tag>
+    <s:tag>fuego</s:tag>
+    <s:tag>hogar</s:tag>
+    <s:tag>impresion-3d</s:tag>
+    <s:tag>maceta</s:tag>
+    <s:tag>regalo</s:tag>
+    <s:tag>vida</s:tag>
+    <s:tag>viento</s:tag>
+    <s:variant>
+      <id>https://makermur.com/products/10586117603667</id>
+      <title>💧 Agua ·</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku>VIDA-ELEM-AGUA</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makermur.com/products/10586117603667</id>
+      <title>🌀 Viento</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku>VIDA-ELEM-VIENTO</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makermur.com/products/10586117603667</id>
+      <title>🔥 Fuego</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku>VIDA-ELEM-FUEGO</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makermur.com/products/10514865553747</id>
+    <published>2026-03-30T19:55:53+02:00</published>
+    <updated>2026-03-30T19:55:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/products/vida-nace-agua"/>
+    <title>💧 VIDA - Nace Agua</title>
+    <s:type>Decoración del hogar</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/DSC_0001_013385f5-f8f6-495f-bafa-caaeab33fefc.jpg?v=1774893620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>MAKER-MUR<br>
+        <strong>Tipo: </strong>Decoración del hogar<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>💧 VIDA - Nace Agua — La fluidez del agua en tu hogar. Pack completo de macetas impresas en 3D por MAKER-MUR, inspirado en el elemento agua.</p><ul>
+<li>🪴 1 maceta grande</li>
+<li>🪴 1 cuenco central</li>
+<li>🪴 2 macetas pequeñas para germinar pasto</li>
+<li>🟦 1 bandeja base</li>
+<li>🌿 1 planta a elección: <strong>cactus o suculenta</strong>
+</li>
+<li>🌍 Tierra</li>
+<li>🌾 Semillas de pasto</li>
+</ul><p>📐 Medidas maceta central — Diámetro: 53 mm · Alto: 59 mm · Profundidad: 52 mm</p><p>📐 Medidas bandeja base — Largo: 260 mm · Ancho: 90 mm · Alto: 10 mm</p><p>📐 Medidas germinadores (x2) — Diámetro: 35 mm · Alto: 28 mm · Profundidad: 26 mm</p><p>📸 Imágenes reales del producto. El resultado final puede presentar ligeras variaciones respecto a las fotografías debido al proceso de impresión 3D artesanal.</p><br><p><strong>⚠️ 📦 🌱 Incluye una planta real. Puede verse afectada por el transporte. <a href="/policies/refund-policy">Ver política de devolución</a></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>agua</s:tag>
+    <s:tag>impresion-3d</s:tag>
+    <s:tag>macetas</s:tag>
+    <s:tag>regalo</s:tag>
+    <s:tag>VIDA</s:tag>
+    <s:variant>
+      <id>https://makermur.com/products/10514865553747</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku/>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makermur.com/products/10514865193299</id>
+    <published>2026-03-30T19:55:52+02:00</published>
+    <updated>2026-03-30T19:55:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/products/vida-nace-fuego"/>
+    <title>🔥 VIDA - Nace Fuego</title>
+    <s:type>Decoración del hogar</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/pack-fuego-colecci-n-vida.png?v=1774913951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>MAKER-MUR<br>
+        <strong>Tipo: </strong>Decoración del hogar<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>🔥 VIDA - Nace Fuego — La energía del fuego en tu hogar. Pack completo de macetas impresas en 3D por MAKER-MUR, inspirado en el elemento fuego.</p><ul>
+<li>🪴 1 maceta grande</li>
+<li>🪴 1 cuenco central</li>
+<li>🪴 2 macetas pequeñas para germinar pasto</li>
+<li>🟥 1 bandeja base</li>
+<li>🌿 1 planta a elección: <strong>cactus o suculenta</strong>
+</li>
+<li>🌍 Tierra</li>
+<li>🌾 Semillas de pasto</li>
+</ul><p>📐 Medidas maceta central — Diámetro: 53 mm · Alto: 59 mm · Profundidad: 52 mm</p><p>📐 Medidas bandeja base — Largo: 260 mm · Ancho: 90 mm · Alto: 10 mm</p><p>📐 Medidas germinadores (x2) — Diámetro: 35 mm · Alto: 28 mm · Profundidad: 26 mm</p><p>📸 Imágenes reales del producto. El resultado final puede presentar ligeras variaciones respecto a las fotografías debido al proceso de impresión 3D artesanal.</p><br><p><strong>⚠️ 📦 🌱 Incluye una planta real. Puede verse afectada por el transporte. <a href="/policies/refund-policy">Ver política de devolución</a></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fuego</s:tag>
+    <s:tag>impresion-3d</s:tag>
+    <s:tag>macetas</s:tag>
+    <s:tag>regalo</s:tag>
+    <s:tag>VIDA</s:tag>
+    <s:variant>
+      <id>https://makermur.com/products/10514865193299</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku/>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makermur.com/products/10514816106835</id>
+    <published>2026-03-30T19:55:52+02:00</published>
+    <updated>2026-03-30T19:55:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/products/vida-nace-viento"/>
+    <title>🌀 VIDA - Nace Viento</title>
+    <s:type>Decoración del hogar</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/1000004152.jpg?v=1774916073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>MAKER-MUR<br>
+        <strong>Tipo: </strong>Decoración del hogar<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>🌀 VIDA - Nace Viento — La ligereza del viento en tu hogar. Pack completo de macetas impresas en 3D por MAKER-MUR, inspirado en el elemento viento.</p><ul>
+<li>🪴 1 maceta grande</li>
+<li>🫙 1 cuenco central</li>
+<li>🪴 2 macetas pequeñas para germinar pasto</li>
+<li>🌀 1 bandeja base</li>
+<li>🌿 1 planta a elección: <strong>cactus o suculenta</strong>
+</li>
+<li>🌍 Tierra</li>
+<li>🌾 Semillas de pasto</li>
+</ul><p>📐 Medidas maceta central — Diámetro: 53 mm · Alto: 59 mm · Profundidad: 52 mm</p><p>📐 Medidas bandeja base — Largo: 260 mm · Ancho: 90 mm · Alto: 10 mm</p><p>📐 Medidas germinadores (x2) — Diámetro: 35 mm · Alto: 28 mm · Profundidad: 26 mm</p><p>📸 Imágenes reales del producto. El resultado final puede presentar ligeras variaciones respecto a las fotografías debido al proceso de impresión 3D artesanal.</p><br><p><strong>⚠️ 📦 🌱 Incluye una planta real. Puede verse afectada por el transporte. <a href="/policies/refund-policy">Ver política de devolución</a></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>agua</s:tag>
+    <s:tag>fuego</s:tag>
+    <s:tag>impresion-3d</s:tag>
+    <s:tag>macetas</s:tag>
+    <s:tag>regalo</s:tag>
+    <s:tag>tierra</s:tag>
+    <s:tag>VIDA</s:tag>
+    <s:variant>
+      <id>https://makermur.com/products/10514816106835</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku/>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+makermur.com	TRUE	/en	FALSE	1999999999	localization	ES
+makermur.com	TRUE	/	FALSE	1999999999	cart_currency	EUR
+makermur.com	TRUE	/	FALSE	1999999999	_shopify_essential	:AZ7_h69hAAEAMdK8BnusbAS9aFecRtkbsqxu8lxUs1WtcXH-5QzYmjbsVUN6tsUeRRH94Tflt0dZmv8aVA7DJiQ2oaLDMgHBe6ZrtYzXbYy7LavEL_Ww7pjsNlWqI8goms33Dj4woorAr-eTd6WRDhlmjIgjjZpd22uKLqG6Ij9Q1ktBFHN_vH2dVvzlpui9JhMQzarHdMLt7wmXk6J2D0XWiQZFqLHqn0lXsiRKd97R1nlcaut4ODVMW_-Xe7EY9wFvrDTK11e-DdTuxcUGn_bDn3zBwX6ysxJxQ7ZGkz-JgizV8FO5F5iN8y06EOpMIKtbt0Hdou41hMyKX7fDOZ6OMLUwUldHyPYiy-AOTcUKp9YaArkZUfyjgzKu5dr4PJjOCUP9PauYy2sLxRGl7WAmeHYpad4RyHBRs-qrKNy9coeWAWhcZ4NAg21SX0syco0b:
+makermur.com	TRUE	/	FALSE	1999999999	Priority	High
+makermur.com	TRUE	/	FALSE	1999999999	localization	ES
+makermur.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

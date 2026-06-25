@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://makermur.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://makermur.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://makermur.com/collections/jugueteria.atom"/>
+  <title>MAKER-MUR</title>
+  <updated>2026-04-04T18:47:25+02:00</updated>
+  <author>
+    <name>MAKER-MUR</name>
+  </author>
+  <entry>
+    <id>https://makermur.com/products/10522408943955</id>
+    <published>2026-04-04T18:47:25+02:00</published>
+    <updated>2026-04-04T18:47:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/products/tarjeta-minecraft-bee"/>
+    <title>🐝 Tarjeta Minecraft Bee – Impresa en 3D</title>
+    <s:type>Tarjeta decorativa</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/20260403_195832.jpg?v=1775320257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>MAKER-MUR<br>
+        <strong>Tipo: </strong>Tarjeta decorativa<br>
+        <strong>Precio: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tarjeta coleccionable de la abeja de Minecraft, fabricada individualmente mediante impresión 3D en nuestro taller en España. Cada pieza se imprime por separado y se revisa antes del envío. Acabado limpio con detalles cuidados.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jugueteria</s:tag>
+    <s:tag>llavero</s:tag>
+    <s:variant>
+      <id>https://makermur.com/products/10522408943955</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">2.49</s:price>
+      <s:sku/>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makermur.com/products/10515024380243</id>
+    <published>2026-03-30T22:49:53+02:00</published>
+    <updated>2026-03-30T22:49:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/products/dragon-flexible"/>
+    <title>🐉 Dragón Flexible</title>
+    <s:type>Juguete</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/DSC_0082.jpg?v=1774903787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>MAKER-MUR<br>
+        <strong>Tipo: </strong>Juguete<br>
+        <strong>Precio: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Dragón Flexible</strong></span></p>
+<p><span>Un dragón articulado impreso en 3D con piezas flexibles que permiten moverlo y posicionarlo como quieras. Una figura con acabado detallado y estética cuidada, ideal para coleccionistas y amantes de los dragones.</span></p>
+<ul>
+<li>
+<p><span>Impresión en 3D con acabado preciso en cada escama</span></p>
+</li>
+<li>
+<p><span>Articulado y flexible, se puede mover y posar</span></p>
+</li>
+<li>
+<p><span>Fabricado individualmente mediante impresión 3D</span></p>
+</li>
+<li>
+<p><span>Ideal para coleccionistas y amantes de la fantasía</span></p>
+</li>
+</ul>
+<p><span>📸 <em>Imágenes reales del producto. El resultado final puede presentar ligeras variaciones respecto a las fotografías debido al proceso de impresión 3D artesanal.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3D</s:tag>
+    <s:tag>articulado</s:tag>
+    <s:tag>colección</s:tag>
+    <s:tag>dragón</s:tag>
+    <s:tag>flexible</s:tag>
+    <s:variant>
+      <id>https://makermur.com/products/10515024380243</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">2.99</s:price>
+      <s:sku/>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makermur.com/products/10515017957715</id>
+    <published>2026-03-30T22:37:43+02:00</published>
+    <updated>2026-03-30T22:37:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/products/tarjeta-mustang-p51"/>
+    <title>✈️ Tarjeta Mustang P51 – Impresa en 3D</title>
+    <s:type>Tarjeta decorativa</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/DSC_0141.jpg?v=1774970969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>MAKER-MUR<br>
+        <strong>Tipo: </strong>Tarjeta decorativa<br>
+        <strong>Precio: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tarjeta coleccionable del legendario caza Mustang P51, fabricada individualmente mediante impresión 3D en nuestro taller en España. Cada pieza se imprime por separado y se revisa antes del envío. Acabado limpio con detalles cuidados.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aviación</s:tag>
+    <s:tag>coleccionable</s:tag>
+    <s:tag>mustang</s:tag>
+    <s:tag>p51</s:tag>
+    <s:tag>tarjeta</s:tag>
+    <s:variant>
+      <id>https://makermur.com/products/10515017957715</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">2.49</s:price>
+      <s:sku>MM-TARJETA-P51</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makermur.com/products/10514989121875</id>
+    <published>2026-03-30T21:57:08+02:00</published>
+    <updated>2026-03-30T21:57:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/products/starscream-transformers-g1"/>
+    <title>🤖 Starscream Transformers G1</title>
+    <s:type>Figura coleccionable</s:type>
+    <s:vendor>Hasbro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/DSC_0149.jpg?v=1774900015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Hasbro<br>
+        <strong>Tipo: </strong>Figura coleccionable<br>
+        <strong>Precio: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Starscream — Transformers Generación 1</h2><p>El traicionero y ambicioso Starscream de los Decepticons llega a tu colección. Este icónico personaje de la primera generación de Transformers es un referente para los fans de la saga clásica.</p><ul>
+<li>Figura de la Generación 1</li>
+<li>Acabado fiel al personaje de la serie animada, con gran precisión en cada detalle</li>
+<li>Articulado, no transformable</li>
+<li>Ideal para coleccionistas y fans de Transformers</li>
+<li>
+<strong>Medidas Starscream:</strong> 18 cm de alto x 17 cm de ancho</li>
+</ul><p>🎁 <strong>¡De regalo incluye Laserbeak Transformers G1!</strong></p><ul>
+<li>Transformable</li>
+<li>
+<strong>Medidas Laserbeak (modo casete):</strong> 3,93 cm x 5,83 cm x 1,03 cm</li>
+<li>
+<strong>Medidas Laserbeak (modo ave, transformada):</strong> 3,93 cm x 5,83 cm x 1,03 cm</li>
+</ul><p>🔜 <strong>¡Próximamente nueva tanda y nuevos personajes!</strong></p><p>📸 Imágenes reales del producto. El resultado final puede presentar ligeras variaciones respecto a las fotografías debido al proceso de impresión 3D.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coleccionable</s:tag>
+    <s:tag>decepticons</s:tag>
+    <s:tag>G1</s:tag>
+    <s:tag>starscream</s:tag>
+    <s:tag>transformers</s:tag>
+    <s:variant>
+      <id>https://makermur.com/products/10514989121875</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">49.99</s:price>
+      <s:sku/>
+      <s:grams>185</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makermur.com/products/10514567364947</id>
+    <published>2026-03-30T16:13:42+02:00</published>
+    <updated>2026-03-30T16:13:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://makermur.com/products/tarjeta-minecraft-pig"/>
+    <title>🐷 Tarjeta &quot;Minecraft Pig&quot;</title>
+    <s:type>Tarjeta decorativa</s:type>
+    <s:vendor>MAKER-MUR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1057/8965/3331/files/20260325_094100.jpg?v=1774879115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>MAKER-MUR<br>
+        <strong>Tipo: </strong>Tarjeta decorativa<br>
+        <strong>Precio: </strong>
+            1.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tarjeta decorativa fabricada individualmente mediante impresión 3D en nuestro taller en España. Cada pieza se imprime por separado, se revisa antes del envío y presenta un acabado limpio con detalles cuidados. Este modelo no se produce en serie y no se encuentra con esta configuración y características en tiendas convencionales.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jugueteria</s:tag>
+    <s:tag>llavero</s:tag>
+    <s:variant>
+      <id>https://makermur.com/products/10514567364947</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1.49</s:price>
+      <s:sku/>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+</feed>
